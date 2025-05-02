@@ -1,5 +1,5 @@
 <h1> Receta de Sandwich de Mantequilla y Mermelada</h1>
-<h2>Ingredientes: </h2>
+<h2>Ingredientes: git push -u origin main</h2>
 <ul>
 <li>Pan</li>
 <li>Mantequilla</li>
