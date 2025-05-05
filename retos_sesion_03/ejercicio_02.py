@@ -1,0 +1,8 @@
+print(" Humano: Hola don gato Como esta?")
+print(" Gato: Miauu Miauu")
+print(" Humano: Que le parece el clima de hoy?")
+print(" Gato: Miauu Miauu Miauu miauu")
+print(" Humano: Comio Algo hoy?")
+print(" Gato: Miauu")
+print(" Humano: Te encargo cuidar la casa, nos vemos pronto!")
+print(" Gato: Miauu Miauu miauuuuu")
