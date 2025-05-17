@@ -1,0 +1,8 @@
+print("Adivina la carta")
+print("Reglas del juego: ")
+print("1. El juego debe ser jugado minimamente entre dos jugadores")
+print("2. Se debe tener una baraja española, barajeada")
+print("3. Un jugado es el juez y los demas adivinan")
+print("4. El juez saca una carta de la parte superior de la carta, el siguiente jugador debe adivinar si la siguiente carta es mayor o menor")
+print("5. El jugador pierde su turno si se equivoca, y se anota una X")
+print("6. Gana quien adivina la mayor cantidad de cartas o en su defecto quien acumula 3 Xs")
