@@ -1,0 +1,1 @@
+frase = str("Entre el amor y el odio, hay un paso; pero entre Dios y el hombre el paso lo pones tu")
